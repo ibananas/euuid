@@ -10,9 +10,9 @@ with open("README.md", "r") as fh:
 
 setup(
     name='euuid',
-    version='0.0.3',
+    version='0.0.4',
     packages=setuptools.find_packages(),
-    url='https://gitee.com/maxbanana',
+    url='https://github.com/ibananas/euuid',
     license='Apache',
     author='hongbo liu',
     author_email='bananabo@foxmail.com',
