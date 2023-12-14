@@ -1,7 +1,13 @@
+[ 中文 | [English](README_EN.md) ]
+
 # euuid
 
-## 介绍
 python生成uuid(通用唯一识别码)总共有5种方法。这个包提供了另外三个方法生成uuid，是对uuid的python包补充。
+
+## 安装
+
+    pip install euuid
+
 
 ## 原理
 - 第一种方法 euuid ： uuid = 随机字符串 + 时间戳， 有可以被忽略不计的概率生成重复的id
